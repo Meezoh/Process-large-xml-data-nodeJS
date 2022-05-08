@@ -1,0 +1,18 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "module": "CommonJS",
+  "dependencies": {
+    "@types/xml": "^1.0.8",
+    "loop-stream": "^1.4.1",
+    "node-xml-stream": "^1.0.2",
+    "streaming-iterables": "^6.2.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3",
+    "xml-stream": "^0.4.5",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@types/xml2js": "^0.4.11"
+  }
+}
